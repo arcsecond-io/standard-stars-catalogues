@@ -1,0 +1,24 @@
+[
+    "ESO_InfraRed_Telluric": {
+        "name": "ESO InfraRed Telluric Standards",
+        "url": "https://www.eso.org/sci/observing/tools/standards/IRstandards/Standards_list.html"
+    },
+    "ESO_UVESPOP": {
+        "name": "ESO UVESPOP",
+        "url": "http://www.eso.org/sci/observing/tools/uvespop.html"
+    },
+    "Hamuy_etal_1992_1994": {
+        "name": "Hamuy et al. 1992, 1994",
+        "url": "http://adsabs.harvard.edu/abs/1992PASP..104..533H"
+    },
+    "Hipparcos": {
+        "name": "Hipparcos",
+        "bibcode": "1997A&A...323L..49P",
+        "url": "https://heasarc.gsfc.nasa.gov/w3browse/all/hipparcos.html"
+    },
+    "Landolt": {
+        "name": "Landolt Faint UBVRI",
+        "bibcode": "1992AJ....104..340L",
+        "url": "http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=II/183A"
+    }
+]
