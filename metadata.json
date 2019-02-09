@@ -1,11 +1,20 @@
 [
+  "Casali_1992": {
+    "name": "UKIRT Faint Standards",
+    "secondary_name": "Casali (1992 UKIRT Newsletter, 4, 33)",
+    "url": "https://www.eso.org/sci/observing/tools/standards/IRstandards/Standards_list.html",
+    "description": "The K' magnitudes in the last column are interpolated. They should provide better numbers than assuming that the K magnitudes apply to data obtained with a K' filter."
+  },
+  "Cohen_etal_1999": {
+    "name": "ESO Mid-Infrared Standard Stars",
+    "secondary_name": "Cohen et al. 1999, AJ 117, 1864",
+    "bibcode": "1999AJ....117.1864C",
+    "url": "http://www.eso.org/sci/facilities/paranal/instruments/visir/tools/zerop_cohen_Jy.txt",
+    "description": "The most commonly used calibration sources in the mid-infrared are the ones characterised by Cohen et al. in a series of papers starting in 1992: \"Spectral Irradiance Calibration in the Infrared\". A summary of these papers including a spectro-photometric catalogue of 422 stars scattered over the entire sky can be found on their Paper X (Cohen et al. 1999, AJ 117, 1864). This catalogue is included in the VISIR pipeline and the basis of the sensitivity determination for VISIR. Nevertheless these templates should be used with caution, because many of them have not been verified observationally."
+  },
     "ESO_InfraRed_Telluric": {
-        "name": "ESO InfraRed Telluric Standards",
+      "name": "ESO InfraRed Telluric Standards",
         "url": "https://www.eso.org/sci/observing/tools/standards/IRstandards/Standards_list.html"
-    },
-    "ESO_UVESPOP": {
-        "name": "ESO UVESPOP",
-        "url": "http://www.eso.org/sci/observing/tools/uvespop.html"
     },
     "Hamuy_etal_1992_1994": {
         "name": "Hamuy et al. 1992, 1994",
