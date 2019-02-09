@@ -11,3 +11,7 @@ Corrected with Erratum:
 https://iopscience.iop.org/article/10.1086/301239/fulltext/
 
 And corrected for missing H-K value for AS 38-1 in Gemini's table.
+
+Also here:
+
+http://www.eso.org/sci/observing/tools/standards/IRstandards/Photometric.html
