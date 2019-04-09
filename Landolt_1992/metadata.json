@@ -1,0 +1,33 @@
+{
+  "key": "Landolt_1992",
+  "name": "Landolt Faint UBVRI",
+  "secondary_name": "",
+  "bibcode": "1992AJ....104..340L",
+  "url": "http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=II/183A",
+  "equinox": "J2000",
+  "tables": [
+    {
+      "suffix": "",
+      "file": "catalogue.txt",
+      "columns": {
+        "name": [0, 10],
+        "ra_hour": [11,13],
+        "ra_min": [14,16],
+        "ra_sec": [17,21],
+        "dec_deg": [22,25],
+        "dec_min": [26,28],
+        "dec_sec": [29,32],
+        "mag_V": [46,52],
+        "color_B-V": [53,59],
+        "mag_B": [60,66],
+        "color_U-B": [67,73],
+        "mag_U": [74,80],
+        "color_V-R": [81,87],
+        "mag_R": [88,94],
+        "color_R-I": [95,101],
+        "mag_I": [102,108],
+        "color_V-I": [109,115]
+      }
+    }
+  ]
+}
