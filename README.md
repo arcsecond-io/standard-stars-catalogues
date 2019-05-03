@@ -1,7 +1,7 @@
 Arcsecond's Standard Stars Catalogues
 ======
 
-See also [Arcsecond's Special Catalogues](https://github.com/arcsecond-io/standard-stars-catalogues).
+See also [Arcsecond's Special Catalogues](https://github.com/arcsecond-io/special-catalogues).
 
 This repository is the data source of all Standard Stars catalogues of Arcsecond.io APIs.
 Feel free to contribute by opening an Issue if you find a mistake, or to submit ideas of
