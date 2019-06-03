@@ -1,8 +1,23 @@
 {
   "key": "ESO_InfraRed_Telluric",
   "name": "ESO InfraRed Telluric Standards",
+  "secondary_name": "",
   "url": "https://www.eso.org/sci/observing/tools/standards/IRstandards/Standards_list.html",
-  "tables": [
-    { "suffix": "", "file": "catalogue.txt" }
-  ]
+  "description": "",
+  "equinox": "J2000",
+  "tables": [{
+    "suffix": "",
+    "file": "catalogue.txt",
+    "columns": {
+      "name": [0, 12],
+      "ra_hour": [13, 15],
+      "ra_min": [16, 18],
+      "ra_sec": [19, 24],
+      "dec_deg": [26, 29],
+      "dec_min": [30, 32],
+      "dec_sec": [33, 37],
+      "mag_V": [39, 44],
+      "spectype": [47, 58]
+    }
+  }]
 }
