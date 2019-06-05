@@ -3,27 +3,26 @@
   "name": "UKIRT Faint Standards",
   "secondary_name": "Casali (1992 UKIRT Newsletter, 4, 33)",
   "url": "https://www.eso.org/sci/observing/tools/standards/IRstandards/Standards_list.html",
-  "description": "The K' magnitudes in the last column are interpolated. They should provide better numbers than assuming that the K magnitudes apply to data obtained with a K' filter.",
+  "notes": "The K' magnitudes in the last column are interpolated. They should provide better numbers than assuming that the K magnitudes apply to data obtained with a K' filter.",
   "equinox": "B1950",
-  "tables": [
-    { "suffix": "",
-      "file": "catalogue.txt",
-      "columns": {
-        "name": [0, 6],
-        "ra_hour": [17, 19],
-        "ra_min": [20, 22],
-        "ra_sec": [23, 27],
-        "dec_deg": [29, 31],
-        "dec_min": [32, 34],
-        "dec_sec": [35, 37],
-        "mag_K": [40, 46],
-        "mag_K_err": [49, 54],
-        "color_H-K": [56, 61],
-        "color_H-K_err": [64, 69],
-        "color_J-K": [70, 76],
-        "color_J-K_err": [79, 84],
-        "mag_K'": [85, 91]
-      }
+  "tables": [{
+    "name": "Table 1",
+    "file": "catalogue.txt",
+    "columns": {
+      "name": [0, 6],
+      "ra_hour": [17, 19],
+      "ra_min": [20, 22],
+      "ra_sec": [23, 27],
+      "dec_deg": [29, 31],
+      "dec_min": [32, 34],
+      "dec_sec": [35, 37],
+      "mag_K": [40, 46],
+      "mag_K_err": [49, 54],
+      "color_H-K": [56, 61],
+      "color_H-K_err": [64, 69],
+      "color_J-K": [70, 76],
+      "color_J-K_err": [79, 84],
+      "mag_K'": [85, 91]
     }
-  ]
+  }]
 }
