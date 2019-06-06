@@ -1,0 +1,24 @@
+{
+  "key": "Oke_1990",
+  "name": "Oke 1990",
+  "description": "Faint Spectrophotometric Standard Stars",
+  "bibcode": "1990AJ.....99.1621O",
+  "url": "http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=II/183A",
+  "equinox": "J2000",
+  "tables": [{
+    "name": "Table 1",
+    "file": "catalogue.txt",
+    "columns": {
+      "name": [3, 16],
+      "ra_hour": [17, 19],
+      "ra_min": [20, 22],
+      "ra_sec": [23, 27],
+      "dec_deg": [29, 32],
+      "dec_min": [33, 35],
+      "dec_sec": [36, 38],
+      "spectype": [40, 44],
+      "mag_V": [45, 50],
+      "mab_AB": [52, 57]
+    }
+  }]
+}
