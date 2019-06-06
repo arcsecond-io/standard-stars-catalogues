@@ -1,0 +1,51 @@
+{
+  "key": "Persson_etal_1998",
+  "name": "Photometric Standards",
+  "bibcode": "1998AJ....116.2475P",
+  "url": "https://www.gemini.edu/sciops/instruments/nearir-resources/photometric-standards/persson-standards",
+  "notes": "See also https://www.gemini.edu/sciops/instruments/nearir-resources/photometric-standards/persson-red-standards",
+  "equinox": "J2000",
+  "tables": [{
+      "name": "Photometric Standards",
+      "file": "catalogue1.txt",
+      "columns": {
+        "name": [6, 12],
+        "ra_hour": [14, 16],
+        "ra_min": [17, 19],
+        "ra_sec": [20, 24],
+        "dec_deg": [25, 28],
+        "dec_min": [29, 31],
+        "dec_sec": [32, 34],
+        "mag_J": [36, 42],
+        "mag_J_err": [44, 49],
+        "mag_H": [55, 61],
+        "mag_H_err": [63, 68],
+        "mag_K": [74, 80],
+        "mag_K_err": [82, 87],
+        "mag_Ks": [93, 99],
+        "mag_Ks_err": [101, 106]
+      }
+    },
+    {
+      "name": "Photometric Red Star Catalogue",
+      "file": "catalogue2.txt",
+      "columns": {
+        "name": [0, 11],
+        "ra_hour": [12, 14],
+        "ra_min": [15, 17],
+        "ra_sec": [18, 22],
+        "dec_deg": [23, 26],
+        "dec_min": [27, 29],
+        "dec_sec": [30, 32],
+        "mag_J": [34, 40],
+        "mag_J_err": [42, 47],
+        "mag_H": [53, 59],
+        "mag_H_err": [61, 66],
+        "mag_K": [72, 78],
+        "mag_K_err": [80, 85],
+        "mag_Ks": [91, 97],
+        "mag_Ks_err": [99, 104]
+      }
+    }
+  ]
+}
