@@ -1,0 +1,35 @@
+{
+  "key": "Gehrels_1974",
+  "name": "Gehrels 1974",
+  "secondary_name": "Unpolarized and Polarized Standard Stars",
+  "equinox": "B1950",
+  "tables": [{
+      "name": "Unpolarized Standard Stars",
+      "file": "catalogue1.txt",
+      "columns": {
+        "name": [0, 10],
+        "mag_V": [11, 14],
+        "spectype": [17, 21],
+        "ra_hour": [22, 24],
+        "ra_min": [25, 27],
+        "ra_sec": [28, 32],
+        "dec_deg": [34, 37],
+        "dec_min": [38, 40],
+        "dec_sec": [41, 43]
+      }
+    },
+    {
+      "name": "'Serkowski' Polarized Standard Stars",
+      "file": "catalogue2.txt",
+      "columns": {
+        "name": [0, 10],
+        "ra_hour": [11, 13],
+        "ra_min": [14, 16],
+        "ra_sec": [17, 21],
+        "dec_deg": [23, 26],
+        "dec_min": [27, 29],
+        "dec_sec": [30, 32]
+      }
+    }
+  ]
+}
