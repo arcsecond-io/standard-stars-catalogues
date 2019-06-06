@@ -6,7 +6,6 @@
   "notes": "The K' magnitudes in the last column are interpolated. They should provide better numbers than assuming that the K magnitudes apply to data obtained with a K' filter.",
   "equinox": "B1950",
   "tables": [{
-    "name": "Table 1",
     "file": "catalogue.txt",
     "columns": {
       "name": [0, 6],
