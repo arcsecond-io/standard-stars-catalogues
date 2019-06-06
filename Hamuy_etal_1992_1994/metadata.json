@@ -1,22 +1,20 @@
 {
   "key": "Hamuy_etal_1992_1994",
   "name": "Hamuy et al. 1992, 1994",
-  "secondary_name": "",
-  "url": "https://www.eso.org/sci/observing/tools/standards/IRstandards/Standards_list.html",
-  "description": "",
+  "url": "",
   "equinox": "J2000",
   "tables": [
     {
-      "suffix": "",
+      "name": "Secondary Standard Stars. Table 1 of Hamuy et al. 1992",
       "file": "secondaryStars.txt",
       "columns": {
         "name": [0,10],
-        "sptype": [24,33],
-        "ub": [35,41],
-        "bv": [43,49],
-        "mag": [51,56],
-        "vr": [58,64],
-        "vi": [66,72],
+        "spectype": [24,33],
+        "color_U-B": [35,41],
+        "color_B-V": [43,49],
+        "mag_V": [51,56],
+        "color_V-R": [58,64],
+        "color_V-I": [66,72],
         "ra_hour": [76,78],
         "ra_min": [79,81],
         "ra_sec": [82,90],
@@ -26,7 +24,7 @@
       }
     },
     {
-      "suffix": "",
+      "name": "Tertiary Standard Stars. Table 7 of Hamuy et al. 1992",
       "file": "tertiaryStars.txt",
       "columns": {
         "name": [1,12],
@@ -36,12 +34,11 @@
         "dec_deg": [24,27],
         "dec_min": [28,30],
         "dec_sec": [31,33],
-        "sptype": [35,38],
-        "ub": [39,45],
-        "bv": [47,53],
-        "mag": [55,61],
-        "vr": [63,69],
-        "ri": [71,77]
+        "color_U-B": [39,45],
+        "color_B-V": [47,53],
+        "mag_V": [55,61],
+        "color_V-R": [63,69],
+        "color_R-I": [71,77]
       }
     }
   ]
