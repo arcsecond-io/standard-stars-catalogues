@@ -1,0 +1,34 @@
+{
+  "key": "Leggett_etal_2003_2006",
+  "name": "UKIRT MKO ZYJHKL′ M Photometric Standards",
+  "bibcode": "2003MNRAS.345..144L",
+  "url": "https://www.gemini.edu/sciops/instruments/nearir-resources/photometric-standards/ukirt-standards",
+  "notes": "UKIRT MKO ZYJHKL′ M Photometric Standards; Leggett et al. (2003(L′ M), 2006(JHK)), and Varricatt, W. P. (ZY, private communication March 2 2012, and unpublished).\nValues of Y magnitudes in blue with the note \"DR9\" in the \"N\" column, are taken from Data Release 9 of the Large Area Survey or the Galactic Cluster Survey of the UKIRT Infrared Deep Sky Survey.\nSee Hambly et al. 2008 MNRAS 384 637. (http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2966.2007.12700.x/full).\n\nA table exists also here: http://www.ukirt.hawaii.edu/astronomy/calib/phot_cal/fs_izjhklm.dat\nAs far as we (Arcsecond.io) can tell, they are the same.",
+  "equinox": "J2000",
+  "tables": [{
+    "file": "catalogue.txt",
+    "columns": {
+      "name": [5, 16],
+      "ra_hour": [17, 19],
+      "ra_min": [20, 22],
+      "ra_sec": [23, 28],
+      "dec_deg": [29, 32],
+      "dec_min": [33, 35],
+      "dec_sec": [36, 40],
+      "mag_Z": [42, 48],
+      "mag_Z_err": [51, 156],
+      "mag_Y": [63, 69],
+      "mag_Y_err": [72, 77],
+      "mag_J": [88, 94],
+      "mag_J_err": [97, 102],
+      "mag_H": [111, 117],
+      "mag_H_err": [120, 125],
+      "mag_K": [134, 140],
+      "mag_K_err": [143, 148],
+      "mag_Lprime": [157, 163],
+      "mag_Lprime_err": [166, 171],
+      "mag_M": [180, 185],
+      "mag_M_err": [189, 193]
+    }
+  }]
+}
