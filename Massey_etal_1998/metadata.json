@@ -1,0 +1,22 @@
+{
+  "key": "Massey_etal_1998",
+  "name": "Kit Peak Standard Stars",
+  "bibcode": "1988ApJ...328..315M",
+  "url": "https://www2.keck.hawaii.edu/inst/common/kpno_stds.html",
+  "equinox": "B1950",
+  "tables": [{
+    "file": "catalogue.txt",
+    "columns": {
+      "name": [3, 15],
+      "ra_hour": [16, 18],
+      "ra_min": [19, 21],
+      "ra_sec": [23, 26],
+      "dec_deg": [27, 30],
+      "dec_min": [31, 33],
+      "dec_sec": [34, 36],
+      "spectype": [37, 41],
+      "mag_V": [43, 48],
+      "color_B-V": [50, 55]
+    }
+  }]
+}
