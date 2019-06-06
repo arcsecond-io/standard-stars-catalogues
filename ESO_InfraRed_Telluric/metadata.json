@@ -1,12 +1,9 @@
 {
   "key": "ESO_InfraRed_Telluric",
   "name": "ESO InfraRed Telluric Standards",
-  "secondary_name": "",
   "url": "https://www.eso.org/sci/observing/tools/standards/IRstandards/Standards_list.html",
-  "description": "",
   "equinox": "J2000",
   "tables": [{
-    "suffix": "",
     "file": "catalogue.txt",
     "columns": {
       "name": [0, 12],
