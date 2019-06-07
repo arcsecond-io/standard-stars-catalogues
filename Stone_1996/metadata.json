@@ -7,12 +7,12 @@
   "equinox": "J2000",
   "tables": [{
       "name": "Table 1A",
-      "file": "catalogue.txt",
+      "file": "catalogue1.txt",
       "columns": {
         "name": [2, 14],
-        "ra_hour": [16, 18],
-        "ra_min": [19, 21],
-        "ra_sec": [22, 25],
+        "ra_hour": [15, 17],
+        "ra_min": [18, 20],
+        "ra_sec": [21, 25],
         "dec_deg": [26, 29],
         "dec_min": [30, 32],
         "dec_sec": [33, 35],
@@ -23,7 +23,7 @@
     },
     {
       "name": "Table 1B: Equatorial Selected Area Stars",
-      "file": "catalogue.txt",
+      "file": "catalogue2.txt",
       "columns": {
         "name": [3, 11],
         "ra_hour": [12, 14],
@@ -31,7 +31,7 @@
         "ra_sec": [18, 20],
         "dec_deg": [21, 24],
         "dec_min": [25, 27],
-        "dec_sec": [28, 30],
+        "dec_sec": [28, 29],
         "mab_V": [31, 36],
         "color_B-V": [37, 41],
         "spectype": [42, 52]
