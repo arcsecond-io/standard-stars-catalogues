@@ -1,0 +1,41 @@
+{
+  "key": "Stone_1996",
+  "name": "Stone 1996",
+  "description": "HST Standards",
+  "bibcode": "1996ApJS..107..423S",
+  "url": "https://www2.keck.hawaii.edu/inst/common/stone_stds_hst.html",
+  "equinox": "J2000",
+  "tables": [{
+      "name": "Table 1A",
+      "file": "catalogue.txt",
+      "columns": {
+        "name": [2, 14],
+        "ra_hour": [16, 18],
+        "ra_min": [19, 21],
+        "ra_sec": [22, 25],
+        "dec_deg": [26, 29],
+        "dec_min": [30, 32],
+        "dec_sec": [33, 35],
+        "spectype": [37, 44],
+        "mab_AB": [45, 50],
+        "color_B-V": [51, 56]
+      }
+    },
+    {
+      "name": "Table 1B: Equatorial Selected Area Stars",
+      "file": "catalogue.txt",
+      "columns": {
+        "name": [3, 11],
+        "ra_hour": [12, 14],
+        "ra_min": [15, 17],
+        "ra_sec": [18, 20],
+        "dec_deg": [21, 24],
+        "dec_min": [25, 27],
+        "dec_sec": [28, 30],
+        "mab_V": [31, 36],
+        "color_B-V": [37, 41],
+        "spectype": [42, 52]
+      }
+    }
+  ]
+}

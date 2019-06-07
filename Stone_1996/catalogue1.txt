@@ -22,6 +22,6 @@
 21 BD+33° 2642 15:51:59.0 +32:57:01  B2 IV   10.81 -0.17
 22 G153-41     16:17:55.4 -15:35:47  DA2     13.42 -0.22
 23 16 Cyg B    19:41:52.0 +50:31:03  G5 V     6.20 +0.66
-24 BD+28° 4211 21:51:11.5 +28:51:49  Op      10.51 -0.34 binary with a separation of roughly 3 arcsec. The secondary is quite red
+#24 BD+28° 4211 21:51:11.5 +28:51:49  Op      10.51 -0.34 binary with a separation of roughly 3 arcsec. The secondary is quite red
 25 G93-48      21:52:25.3 +02:23:32  DA3     12.74 -0.01
 26 Feige 110   23:19:58.3 -05:09:56  DOp     11.82 -0.29
