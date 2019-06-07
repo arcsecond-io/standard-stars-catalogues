@@ -2,6 +2,104 @@
   "key": "Perryman_etal_1997",
   "name": "Hipparcos Catalogue",
   "bibcode": "1997A&A...323L..49P",
-  "url": "https://heasarc.gsfc.nasa.gov/w3browse/all/hipparcos.html",
-  "equinox": "J2000"
+  "url": "http://www.gemini.edu/sciops/instruments/nearir-resources/spectroscopic-telluric-standards#hipparcos",
+  "notes": "Many stars in the Hipparcos catalog are not suitable to be used as telluric standard stars, either because of multiplicity or peculiarities in their spectra. It is the PI's responsibility to verify that the standard stars they have selected in their Phase II will meet their scientific requirements.",
+  "equinox": "J2000",
+  "tables": [{
+      "name": "A Stars",
+      "file": "A.txt",
+      "columns": {
+        "name": [2, 8],
+        "ra_hour": [19, 21],
+        "ra_min": [22, 24],
+        "ra_sec": [25, 30],
+        "dec_deg": [31, 34],
+        "dec_min": [35, 37],
+        "dec_sec": [38, 42],
+        "mag_V": [43, 48],
+        "mab_AB": [52, 57],
+        "spectype": [87, 120]
+      }
+    },
+    {
+      "name": "B Stars",
+      "file": "B.txt",
+      "columns": {
+        "name": [2, 8],
+        "ra_hour": [19, 21],
+        "ra_min": [22, 24],
+        "ra_sec": [25, 30],
+        "dec_deg": [31, 34],
+        "dec_min": [35, 37],
+        "dec_sec": [38, 42],
+        "mag_V": [43, 48],
+        "mab_AB": [52, 57],
+        "spectype": [87, 120]
+      }
+    },
+    {
+      "name": "F Stars",
+      "file": "F.txt",
+      "columns": {
+        "name": [2, 8],
+        "ra_hour": [19, 21],
+        "ra_min": [22, 24],
+        "ra_sec": [25, 30],
+        "dec_deg": [31, 34],
+        "dec_min": [35, 37],
+        "dec_sec": [38, 42],
+        "mag_V": [43, 48],
+        "mab_AB": [52, 57],
+        "spectype": [87, 120]
+      }
+    },
+    {
+      "name": "G Stars",
+      "file": "G.txt",
+      "columns": {
+        "name": [2, 8],
+        "ra_hour": [19, 21],
+        "ra_min": [22, 24],
+        "ra_sec": [25, 30],
+        "dec_deg": [31, 34],
+        "dec_min": [35, 37],
+        "dec_sec": [38, 42],
+        "mag_V": [43, 48],
+        "mab_AB": [52, 57],
+        "spectype": [87, 120]
+      }
+    },
+    {
+      "name": "K Stars",
+      "file": "K.txt",
+      "columns": {
+        "name": [2, 8],
+        "ra_hour": [19, 21],
+        "ra_min": [22, 24],
+        "ra_sec": [25, 30],
+        "dec_deg": [31, 34],
+        "dec_min": [35, 37],
+        "dec_sec": [38, 42],
+        "mag_V": [43, 48],
+        "mab_AB": [52, 57],
+        "spectype": [87, 120]
+      }
+    },
+    {
+      "name": "O Stars",
+      "file": "O.txt",
+      "columns": {
+        "name": [2, 8],
+        "ra_hour": [19, 21],
+        "ra_min": [22, 24],
+        "ra_sec": [25, 30],
+        "dec_deg": [31, 34],
+        "dec_min": [35, 37],
+        "dec_sec": [38, 42],
+        "mag_V": [43, 48],
+        "mab_AB": [52, 57],
+        "spectype": [87, 120]
+      }
+    }
+  ]
 }
