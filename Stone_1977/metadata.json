@@ -1,0 +1,22 @@
+{
+  "key": "Stone_1977",
+  "name": "Stone 1977",
+  "description": "Spectrophotometric Standards",
+  "bibcode": "1977ApJ...218..767S",
+  "url": "https://www2.keck.hawaii.edu/inst/common/stone_stds_1977.html",
+  "equinox": "J2000",
+  "tables": [{
+    "file": "catalogue.txt",
+    "columns": {
+      "name": [3, 14],
+      "ra_hour": [16, 18],
+      "ra_min": [19, 21],
+      "ra_sec": [22, 26],
+      "dec_deg": [27, 30],
+      "dec_min": [31, 33],
+      "dec_sec": [34, 36],
+      "spectype": [37, 45],
+      "mab_AB": [46, 51]
+    }
+  }]
+}

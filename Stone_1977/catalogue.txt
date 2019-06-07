@@ -13,5 +13,5 @@
 12 Kopff 27     17:43:55.8 +05:24:48 A3 V     10.31
 13 BD+25° 3941  19:44:26.1 +26:13:17 B1.5 V   10.36
 14 BD+40° 4032  20:08:24.3 +41:15:03 B2 III   10.45
-15 BD+28° 4211  21:51:11.5 +28:51:49 sdOp     10.56 binary with a separation of roughly 3 arcsec. The secondary is quite red.
+#15 BD+28° 4211  21:51:11.5 +28:51:49 sdOp     10.56 binary with a separation of roughly 3 arcsec. The secondary is quite red.
 16 Feige 110    23:19:58.3 -05:09:56 sdO      11.88:
