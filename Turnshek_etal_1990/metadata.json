@@ -1,4 +1,25 @@
 {
   "key": "Turnshek_etal_1990",
-  "name": "Turnshek etal 1990"
+  "name": "An atlas of HST photometric, spectrophotometric, and polarimetric calibration objects.",
+  "bibcode": "1990AJ.....99.1243T",
+  "url": "http://www.ukirt.hawaii.edu/astronomy/calib/phot_cal/IRTF_NQ.html",
+  "equinox": "J2000",
+  "tables": [{
+    "file": "catalogue.txt",
+    "columns": {
+      "name": [25, 41],
+      "ra_hour": [55, 57],
+      "ra_min": [58, 60],
+      "ra_sec": [61, 74],
+      "dec_deg": [75, 78],
+      "dec_min": [79, 81],
+      "dec_sec": [82, 94],
+      "mab_U": [95, 101],
+      "mab_B": [102, 108],
+      "mab_V": [109, 115],
+      "mab_R": [116, 122],
+      "mab_I": [123, 129],
+      "spectype": [130, 146]
+    }
+  }]
 }
