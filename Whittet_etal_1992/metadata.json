@@ -1,4 +1,45 @@
 {
   "key": "Whittet_etal_1992",
-  "name": "Whittet et al. 1992"
+  "name": "Polarized Stars from Whittet et al. (1992)",
+  "secondary_name": "Casali (1992 UKIRT Newsletter, 4, 33)",
+  "bibcode": "1992ApJ...386..562W",
+  "url": "http://www.ukirt.hawaii.edu/instruments/irpol/irpol_stds.html#Whittet",
+  "notes": "Polarization observations in the UBVRIJHK bands were made with the Hatfield polarimeter (HATPOL) by Whittet et al. 1992, ApJ, 386, 562. Only the IJHK polarizations are given here. Note: the K-band polarization observations were made in a non-standard K passband centred at 2.04 microns. Values appropriate to a more standard K-band filter have been calculated by Gerakines et al. (1995, ApJ, 455, L171) from power-law extrapolations of the Whittet et al. multi-colour polarisation measurements.",
+  "equinox": "J2000",
+  "tables": [{
+    "file": "catalogue.txt",
+    "columns": {
+      "name": [0, 18],
+      "mag_J": [19, 22],
+      "mag_K": [27, 30],
+      "ra_hour": [36, 38],
+      "ra_min": [39, 41],
+      "ra_sec": [42, 46],
+      "dec_deg": [48, 51],
+      "dec_min": [52, 54],
+      "dec_sec": [55, 57],
+      "mag_V": [60, 65],
+      "spectype": [67, 77],
+      "pol_band_I": [78, 79],
+      "pol_percent_I": [81, 85],
+      "pol_percent_I_err": [88, 92],
+      "pol_angle_I": [94, 97],
+      "pol_angle_I_err": [100, 101],
+      "pol_band_J": [103, 104],
+      "pol_percent_J": [106, 110],
+      "pol_percent_J_err": [113, 117],
+      "pol_angle_J": [119, 122],
+      "pol_angle_J_err": [125, 126],
+      "pol_band_H": [128, 129],
+      "pol_percent_H": [131, 135],
+      "pol_percent_H_err": [139, 142],
+      "pol_angle_H": [144, 147],
+      "pol_angle_H_err": [150, 151],
+      "pol_band_K": [153, 154],
+      "pol_percent_K": [156, 160],
+      "pol_percent_K_err": [163, 167],
+      "pol_angle_K": [169, 172],
+      "pol_angle_K_err": [175, 177]
+    }
+  }]
 }
