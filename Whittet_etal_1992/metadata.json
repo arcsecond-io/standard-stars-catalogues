@@ -1,7 +1,7 @@
 {
   "key": "Whittet_etal_1992",
-  "name": "Polarized Stars from Whittet et al. (1992)",
-  "secondary_name": "Casali (1992 UKIRT Newsletter, 4, 33)",
+  "name": "Whittet et al. 1992",
+  "secondary_name": "Polarized Stars",
   "bibcode": "1992ApJ...386..562W",
   "url": "http://www.ukirt.hawaii.edu/instruments/irpol/irpol_stds.html#Whittet",
   "notes": "Polarization observations in the UBVRIJHK bands were made with the Hatfield polarimeter (HATPOL) by Whittet et al. 1992, ApJ, 386, 562. Only the IJHK polarizations are given here. Note: the K-band polarization observations were made in a non-standard K passband centred at 2.04 microns. Values appropriate to a more standard K-band filter have been calculated by Gerakines et al. (1995, ApJ, 455, L171) from power-law extrapolations of the Whittet et al. multi-colour polarisation measurements.",

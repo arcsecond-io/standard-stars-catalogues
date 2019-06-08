@@ -1,6 +1,7 @@
 {
   "key": "Perryman_etal_1997",
-  "name": "Hipparcos Catalogue",
+  "name": "Perryman et al. 1997",
+  "secondary_name": "Hipparcos Catalogue",
   "bibcode": "1997A&A...323L..49P",
   "url": "http://www.gemini.edu/sciops/instruments/nearir-resources/spectroscopic-telluric-standards#hipparcos",
   "notes": "Many stars in the Hipparcos catalog are not suitable to be used as telluric standard stars, either because of multiplicity or peculiarities in their spectra. It is the PI's responsibility to verify that the standard stars they have selected in their Phase II will meet their scientific requirements.",

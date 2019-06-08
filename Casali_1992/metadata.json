@@ -1,7 +1,7 @@
 {
   "key": "Casali_1992",
-  "name": "UKIRT Faint Standards",
-  "secondary_name": "Casali (1992 UKIRT Newsletter, 4, 33)",
+  "name": "Casali 1992",
+  "secondary_name": "UKIRT Faint Standards (UKIRT Newsletter, 4, 33)",
   "url": "https://www.eso.org/sci/observing/tools/standards/IRstandards/Standards_list.html",
   "notes": "The K' magnitudes in the last column are interpolated. They should provide better numbers than assuming that the K magnitudes apply to data obtained with a K' filter.",
   "equinox": "B1950",

@@ -1,6 +1,8 @@
 {
   "key": "Tokunaga_1986",
-  "name": "Bright Infrared Standard Stars at 10 and 20 microns",
+  "name": "Tokunaga 1986",
+  "secondary_name": "Bright Infrared Standard Stars at 10 and 20 microns",
+  "notes": "From A. Tokunaga, IRTF Photometry Maunal, 1986",
   "url": "http://www.ukirt.hawaii.edu/astronomy/calib/phot_cal/IRTF_NQ.html",
   "equinox": "B1950",
   "tables": [{

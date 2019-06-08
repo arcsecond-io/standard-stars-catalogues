@@ -1,7 +1,7 @@
 {
   "key": "Oke_1990",
   "name": "Oke 1990",
-  "description": "Faint Spectrophotometric Standard Stars",
+  "secondary_name": "Faint Spectrophotometric Standard Stars",
   "bibcode": "1990AJ.....99.1621O",
   "url": "http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=II/183A",
   "equinox": "J2000",

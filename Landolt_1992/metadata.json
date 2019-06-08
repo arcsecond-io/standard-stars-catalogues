@@ -1,6 +1,7 @@
 {
   "key": "Landolt_1992",
-  "name": "Landolt Faint UBVRI",
+  "name": "Landolt 1992",
+  "secondary_name": "Faint UBVRI Standard Stars",
   "bibcode": "1992AJ....104..340L",
   "url": "http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=II/183A",
   "equinox": "J2000",

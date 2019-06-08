@@ -1,6 +1,7 @@
 {
   "key": "Hunt_etal_1998",
-  "name": "JHK Standards Catalogue",
+  "name": "Hunt et al. 1998",
+  "secondary_name": "JHK Photometric Standards Catalogue",
   "bibcode": "1998AJ....115.2594H",
   "url": "https://iopscience.iop.org/article/10.1086/300349/meta",
   "notes": "See https://www.gemini.edu/sciops/instruments/nearir-resources/photometric-standards/hunt-standards\nhttp://www.iop.org/EJ/abstract/1538-3881/115/6/2594/\nhttps://iopscience.iop.org/article/10.1086/300349/meta\n\nCorrected with Erratum:\nhttps://iopscience.iop.org/article/10.1086/301239/fulltext/\nThe table contained here is corrected for missing H-K value for AS 38-1 in Gemini's table.\nSee also here:\nhttp://www.eso.org/sci/observing/tools/standards/IRstandards/Photometric.html",
