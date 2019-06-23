@@ -1,7 +1,7 @@
 Arcsecond's Standard Stars Catalogues
 ======
 
-This repository is the data source of all Standard Stars catalogues of Arcsecond.io APIs.
+This repository is the data source of all Standard Stars catalogues of [Arcsecond.io](https://api.arcsecond.io).
 Feel free to contribute by opening an Issue if you find a mistake, or to submit ideas for
 new catalogues.
 
@@ -28,7 +28,7 @@ not decoupled from its comsumption.
 So what ?
 ====
 
-First these catalogues data will be made available through REST *APIs* at https://api.arcsecond.io/catalogues/.
+First these catalogues data are made available through REST *APIs* at https://api.arcsecond.io/catalogues/.
 
 Second, an endpoint dedicated to Standard Stars search can be found at https://api.arcsecond.io/standardstars/ with the
 query params:
@@ -36,4 +36,4 @@ query params:
 * `around=<RA in decimal degrees,Dec in decimal degrees>`
 * `count=<integer>` (optional, default to 5, max to 10).
 
-And last but not least, dedicated webpages with modern filtering tools will soon be made available at https://www.arcsecond.io/catalogues/ for catalogues and https://www.arcsecond.io/standardstars/ .
+And last but not least, dedicated webpages with modern filtering tools are made available at https://www.arcsecond.io/catalogues/ for catalogues and https://www.arcsecond.io/standardstars/ .
