@@ -22,13 +22,18 @@ here have been found in the various pages of the websites of
 [IAC](http://catserver.ing.iac.es/landscape/index.php) and the
 [NOT](http://www.not.iac.es/observing/forms/landscape/v1.4/www/).
 
-Second, static HTML pages are again made for humans' reading. That is, data is
-not decoupled from its comsumption.
+Second, static HTML pages are again made for humans' reading, which is
+good for some cases. Yet, it is hard to build anything from it since data
+is mixed with presentation. That is, data is not decoupled from its comsumption.
 
-So what ?
+By keeping all catalogues in a simple text format, yet organised and homogenized
+inside this repository, adding some metadata, make possible to use all this information
+as data.
+
+What next?
 ====
 
-First these catalogues data are made available through REST *APIs* at https://api.arcsecond.io/catalogues/.
+These catalogues data are made available through REST *APIs* at https://api.arcsecond.io/catalogues/.
 
 Second, an endpoint dedicated to Standard Stars search can be found at https://api.arcsecond.io/standardstars/ with the
 query params:
@@ -36,4 +41,6 @@ query params:
 * `around=<RA in decimal degrees,Dec in decimal degrees>`
 * `count=<integer>` (optional, default to 5, max to 10).
 
-And last but not least, dedicated webpages with modern filtering tools are made available at https://www.arcsecond.io/catalogues/ for catalogues and https://www.arcsecond.io/standardstars/ .
+And last but not least, dedicated webpages with modern filtering tools are made available at 
+https://www.arcsecond.io/catalogues/ for catalogues and a complete and free Standard Stars Browser
+is made available at https://www.arcsecond.io/standardstars/ .
