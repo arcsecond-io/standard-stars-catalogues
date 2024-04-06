@@ -10,7 +10,7 @@ Why ?
 
 Astronomical research enjoy tremendous amount of data stored in electronic format.
 Yet, the standard stars catalogues are spread over websites, in static HTML pages,
-two things we intend to solve here (two chores that Arcsecond is slowly trying to fix).
+two things we intend to solve here.
 
 First, we would like to store them all, in a versionned respository to ensure
 transparent history, in case of changes or corrections. The catalogues available
