@@ -41,10 +41,6 @@ query params:
 * `around=<RA in decimal degrees,Dec in decimal degrees>`
 * `count=<integer>` (optional, default to 5, max to 10).
 
-And last but not least, dedicated webpages with modern filtering tools are made available at 
-https://www.arcsecond.io/catalogues/ for catalogues and a complete and free Standard Stars Browser
-is made available at https://www.arcsecond.io/standardstars/ .
-
 # The full list:
 
 * [Casali 1992: UKIRT Faint Standards](https://github.com/arcsecond-io/standard-stars-catalogues/tree/master/Casali_1992)
